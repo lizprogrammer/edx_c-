@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/Employee/bin/Debug/netcoreapp2.0/Employee.deps.json
+/home/ubuntu/workspace/Employee/bin/Debug/netcoreapp2.0/Employee.runtimeconfig.json
+/home/ubuntu/workspace/Employee/bin/Debug/netcoreapp2.0/Employee.runtimeconfig.dev.json
+/home/ubuntu/workspace/Employee/bin/Debug/netcoreapp2.0/Employee.dll
+/home/ubuntu/workspace/Employee/bin/Debug/netcoreapp2.0/Employee.pdb
+/home/ubuntu/workspace/Employee/obj/Debug/netcoreapp2.0/Employee.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/Employee/obj/Debug/netcoreapp2.0/Employee.AssemblyInfo.cs
+/home/ubuntu/workspace/Employee/obj/Debug/netcoreapp2.0/Employee.dll
+/home/ubuntu/workspace/Employee/obj/Debug/netcoreapp2.0/Employee.pdb
